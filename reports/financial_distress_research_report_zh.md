@@ -268,5 +268,5 @@ Oscore 主实验的置换重要性显示，最重要的财务变量包括销售 
 - `results/tables/oscore_model_metrics.csv`：Oscore 主实验模型指标。
 - `results/tables/zrisk_model_metrics.csv`：Zrisk 稳健性实验模型指标。
 - `results/tables/feature_names_report.csv`：最终进入模型的特征名称。
-- `src/financial_risk_pipeline.py`：核心建模流水线脚本。
+- `src/financial_risk_pipeline.py`：核心建模脚本。
 - `data/example/synthetic_financial_data.csv`：合成示例数据，仅用于演示代码运行流程。
