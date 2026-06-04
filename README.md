@@ -120,10 +120,6 @@ Zrisk = -Zscore
 
 - [`reports/financial_distress_research_report_zh.md`](reports/financial_distress_research_report_zh.md)
 
-## 开源注意事项
-
-本仓库仅公开方法、代码、合成数据和结果摘要，不公开原始数据。若你使用自己的真实数据，请确认数据授权范围，并避免将 `data/raw/`、`outputs/`、`models/` 中的私有文件提交到 GitHub。
-
 ## License
 
 本项目代码采用 MIT License。数据文件仅用于演示，不代表真实公司数据。
