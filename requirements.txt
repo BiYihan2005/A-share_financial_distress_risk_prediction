@@ -1,0 +1,12 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+tabulate
+
+# Recommended optional dependencies.
+# The pipeline can run without these, but model coverage is better with them.
+lightgbm
+torch

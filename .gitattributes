@@ -1,0 +1,13 @@
+# 统一文本文件行尾，避免 GitHub Markdown/代码显示成一整行
+* text=auto eol=lf
+
+# 图片和二进制文件按 binary 处理
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.pt binary
+*.joblib binary
