@@ -114,7 +114,7 @@ $$
 对严重偏态财务变量使用符号对数变换：
 
 $$
-\name{slog}(x) = \name{sign}(x) \cdot \log(1+|x|)
+{slog}(x) = {sign}(x) \cdot \log(1+|x|)
 $$
 
 Ridge 线性模型的目标函数为：
