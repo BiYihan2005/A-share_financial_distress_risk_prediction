@@ -1,0 +1,13 @@
+﻿样本集,样本数,起始日期,结束日期,股票数,行业数,experiment,target
+train_fit,119618,2003-03-31,2020-12-31,3844,83,experiment1_lead1_basic,Oscore
+valid,26125,2021-03-31,2022-12-31,4303,79,experiment1_lead1_basic,Oscore
+test,28849,2023-03-31,2024-12-31,4507,82,experiment1_lead1_basic,Oscore
+train_fit,111715,2003-06-30,2020-12-31,3808,82,experiment2_lead1_lag_change,Oscore
+valid,24966,2021-03-31,2022-12-31,4131,79,experiment2_lead1_lag_change,Oscore
+test,27454,2023-03-31,2024-12-31,4344,81,experiment2_lead1_lag_change,Oscore
+train_fit,125073,2003-03-31,2020-12-31,4069,84,experiment1_lead1_basic,Zrisk
+valid,27683,2021-03-31,2022-12-31,4476,79,experiment1_lead1_basic,Zrisk
+test,29514,2023-03-31,2024-12-31,4563,82,experiment1_lead1_basic,Zrisk
+train_fit,114407,2003-06-30,2020-12-31,3906,84,experiment2_lead1_lag_change,Zrisk
+valid,25750,2021-03-31,2022-12-31,4224,79,experiment2_lead1_lag_change,Zrisk
+test,27798,2023-03-31,2024-12-31,4365,81,experiment2_lead1_lag_change,Zrisk
