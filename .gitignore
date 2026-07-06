@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Private data and generated artifacts
+data/raw/
+data/private/
+outputs/
+models/
+results/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.ckpt
+
+# Large or temporary files
+*.zip
+*.tar.gz
+*.csv.gz
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
